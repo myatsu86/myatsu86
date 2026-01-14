@@ -9,7 +9,7 @@ I am a senior software professional with 10+ years of industry experience, curre
 ## 👩‍💻 About Me
 
 * 10+ years of professional experience in software development and platform engineering
-* Currently working at **Seagate Technology (Singapore HQ)** as a Senior Analyst / Lead Engineer
+* Currently working at **Seagate Technology (Singapore HQ)** as a Senior Analyst.
 * Hands-on experience designing, building, and operating **CI/CD pipelines**, **Kubernetes deployments**, and **cloud-native applications**
 * Strong foundation in backend and frontend development, now focused on **infrastructure, automation, and reliability**
 * Passionate about scalable systems, DevOps best practices, and continuous improvement
