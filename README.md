@@ -92,6 +92,7 @@ I am a senior software professional with 10+ years of industry experience, curre
 ## 🎓 Certifications
 
 * **Certified Kubernetes Administrator (CKA)** – 2024
+* **HashiCorp Certified: Terraform Associate (003)** - 2026
 * **Certified Kubernetes Application Developer (CKAD)** – 2021
 * **AWS Certified Developer – Associate** – 2017
 * Python Specialization – University of Michigan
